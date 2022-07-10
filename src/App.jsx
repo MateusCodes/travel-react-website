@@ -8,7 +8,7 @@ import Selects from './components/Selects';
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
       <Hero />
       <Destinations />
@@ -16,7 +16,7 @@ function App() {
       <Selects />
       <Carousel />
       <Footer />
-    </div>
+    </>
   );
 }
 

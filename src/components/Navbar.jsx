@@ -22,7 +22,7 @@ const Navbar = () => {
   };
 
   return (
-    <div id="home" className="flex w-full justify-between items-center h-20 px-4 absolute z-10 text-white">
+    <header id="home" className="flex w-full justify-between items-center h-20 px-4 absolute z-10 text-white">
       <div>
         <h1 onClick={handleNav} className={logo ? 'hidden' : 'block'}>
           Beaches
@@ -100,7 +100,7 @@ const Navbar = () => {
           </div>
         </ul>
       </div>
-    </div>
+    </header>
   );
 };
 

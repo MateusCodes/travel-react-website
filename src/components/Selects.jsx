@@ -14,7 +14,7 @@ const Selects = () => {
   }, []);
 
   return (
-    <div
+    <section
       data-aos="fade-up"
       id="view"
       className="max-w-[1240px] mx-auto px-4 py-16 grid gap-4 sm:grid-cols-2 lg:grid-cols-3"
@@ -25,7 +25,7 @@ const Selects = () => {
       <SelectsCard background={Maldives2} text={'Maldives2'} />
       <SelectsCard background={KeyWest} text={'KeyWest'} />
       <SelectsCard background={KeyWest} text={'KeyWest2'} />
-    </div>
+    </section>
   );
 };
 

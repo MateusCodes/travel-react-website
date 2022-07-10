@@ -10,7 +10,7 @@ const Search = () => {
   }, []);
 
   return (
-    <div
+    <section
       data-aos="fade-up"
       id="travel"
       className="max-w-[1240px] mx-auto grid lg:grid-cols-3 gap-4 px-4 py-16"
@@ -100,7 +100,7 @@ const Search = () => {
           </div>
         </form>
       </div>
-    </div>
+    </section>
   );
 };
 

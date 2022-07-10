@@ -11,7 +11,7 @@ const Destinations = () => {
   }, []);
 
   return (
-    <div
+    <section
       data-aos="fade-up"
       id="destinations"
       className="max-w-[1240px] mx-auto py-16 px-4 text-center"
@@ -32,7 +32,7 @@ const Destinations = () => {
           />
         ))}
       </div>
-    </div>
+    </section>
   );
 };
 

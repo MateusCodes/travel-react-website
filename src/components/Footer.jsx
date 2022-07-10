@@ -10,7 +10,7 @@ import {
 const Footer = () => {
 
   return (
-    <div data-aos="fade-up" className="w-full bg-gray-100 py-16">
+    <footer data-aos="fade-up" className="w-full bg-gray-100 py-16">
       <div className="max-w-[1240px] mx-auto flex flex-col px-4">
         <div className="sm:flex text-center justify-between items-center">
           <h1>BEACHES.</h1>
@@ -49,7 +49,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-    </div>
+    </footer>
   );
 };
 
