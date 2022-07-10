@@ -1,18 +1,18 @@
 export default [
   {
     title: 'BoraBora2',
-    imgUrl: 'src/assets/borabora2.jpg'
+    imgUrl: 'https://i.im.ge/2022/07/10/upG7Km.jpg'
   },
   {
     title: 'Maldives',
-    imgUrl: 'src/assets/maldives.jpg'
+    imgUrl: 'https://i.im.ge/2022/07/10/upGawf.jpg'
   },
   {
     title: 'Maldives2',
-    imgUrl: 'src/assets/maldives2.jpg'
+    imgUrl: 'https://i.im.ge/2022/07/10/upGLiW.jpg'
   },
   {
     title: 'Key West',
-    imgUrl: 'src/assets/keywest.jpg'
+    imgUrl: 'https://i.im.ge/2022/07/10/upGUc0.jpg'
   }
 ];
