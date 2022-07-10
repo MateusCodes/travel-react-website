@@ -1,6 +1,6 @@
 # Travel website developed with TailwindCSS and React
 
-[Check project](https://mateuscodes.github.io/travel-react-website/)
+[Check project](https://mateuscodes-travelwebsite.netlify.app/)
 
 ---
 
